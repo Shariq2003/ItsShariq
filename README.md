@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 # Hi, I'm Shariq 👋
-### Full-Stack Developer in the Making | CSE Final Year | Tech Innovator at Heart
+### Software Engineer | SSE in the Making | B.Tech CSE Spec-AIML | Tech Innovator at Heart
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -58,11 +58,11 @@
 
 <i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Shariq, an upcoming enthusiastic Software Engineer hailing from India..
+👋 Greetings! It's great to have you here. I'm Shariq, an enthusiastic Software Engineer hailing from India..
 
-🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science.
+🎓 &nbsp; I have persuade Bachelor of Technology with a degree in Computer Science.
 
-🔥 &nbsp; With an impressive following of 1k+ on [Linkedin](https://www.linkedin.com/in/shariq-sd).
+🔥 &nbsp; With an impressive following of 1.25k+ on [Linkedin](https://www.linkedin.com/in/shariq-sd).
 
 🔖 &nbsp; I am busy in DSA, CP and Developement on use cases across various industries and technologies.
 
